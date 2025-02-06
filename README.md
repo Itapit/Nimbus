@@ -41,10 +41,7 @@ cd nimbus
 ```
 
 ### 2. Install dependencies
-Ensure you have Python installed, then install the required packages:
-```bash
-pip install -r requirements.txt
-```
+Ensure you have Python installed, then install the required packages
 
 ### 3. Configure Email SMTP Settings
 To enable email verification, update the **email sender and password** inside the `server_utils.py` file in the `send_verification_email` function:
