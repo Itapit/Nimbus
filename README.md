@@ -36,7 +36,7 @@ Nimbus is a secure, **client-server cloud storage system** that allows users to 
 ## Installation & Setup
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/nimbus.git
+git clone https://github.com/Itapit/nimbus.git
 cd nimbus
 ```
 
