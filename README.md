@@ -3,7 +3,7 @@
 ## Overview
 Nimbus is a high school project I worked on to explore cloud storage and encryption concepts. **This project is not intended for actual use**, as it may contain bugs and security vulnerabilities. 
 
-Nimbus is a secure, **client-server cloud storage system** that allows users to upload, download, and manage files and folders efficiently. It features **AES encryption** for file security, **RSA encryption** for key exchange, a **Tkinter-based GUI**, and an **admin panel** for user management and monitoring.
+Nimbus is a **client-server cloud storage system** that allows users to upload, download, and manage files and folders efficiently. It features **AES encryption** for file security, **RSA encryption** for key exchange, a **Tkinter-based GUI**, and an **admin panel** for user management and monitoring.
 
 ## Features
 - **User Management**
